@@ -1,5 +1,7 @@
 # FCPS-OpenAI Partnership Watch
 
+> **DRAFT**: This project is in development pending coordination with parents, educators, and child safety stakeholders.
+
 A resource for parents and advocates monitoring AI in Fairfax County Public Schools.
 
 ## Documentation
