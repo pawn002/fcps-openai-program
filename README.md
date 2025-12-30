@@ -6,9 +6,9 @@ A resource for parents and advocates monitoring AI in Fairfax County Public Scho
 
 ## Documentation
 
-- **[Evaluation Framework](EVALUATION_FRAMEWORK.md)** — Early warning system with SAIFCA-aligned protections
-- **[SAIFCA Research](SAIFCA_RESEARCH.md)** — Child safety standards
-- **[OpenAI Goals](RESEARCH.md)** — Understanding the partnership
-- **[Contrarian View](CONTRARIAN_VIEW.md)** — Charitable interpretation
+- **[Partnership Watchdog Framework](PARTNERSHIP_WATCHDOG_FRAMEWORK.md)** — Early warning system with SAIFCA-aligned protections
+- **[Child Safety Standards (SAIFCA)](CHILD_SAFETY_STANDARDS_SAIFCA.md)** — Non-negotiable protections for children
+- **[OpenAI Strategic Goals](OPENAI_STRATEGIC_GOALS.md)** — Understanding the partnership
+- **[OpenAI Altruistic Case](OPENAI_ALTRUISTIC_CASE.md)** — Charitable interpretation
 
 Protect kids. Stay informed.
